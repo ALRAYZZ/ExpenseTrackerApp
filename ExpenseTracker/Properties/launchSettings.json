@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExpenseTracker": {
+      "commandName": "Project",
+      "commandLineArgs": "summary --month 12"
+    }
+  }
+}
